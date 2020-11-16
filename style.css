@@ -1,0 +1,29 @@
+
+
+* { 
+    font-family: "Gill Sans Extrabold", Helvetica, sans-serif 
+}
+title {
+    font-weight: 500;
+}
+.nombre{
+    text-align: center;
+    color: blue;
+    font-weight: 300px;
+}
+
+#contenedor {
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+.caja{
+    padding: 20px;
+    margin: 100px;
+    justify-content: space-between;
+    background-color: gray;
+    display: flex;
+    flex-direction: row;
+}
